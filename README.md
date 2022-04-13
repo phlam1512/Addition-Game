@@ -9,7 +9,7 @@ The learning aid can be either a physical toy or a software learning application
 To design and develop a prototype or product that serves as a learning aid for young children, you can choose your target market between the ages of five and ten (Year one to year five or so) but you do need to identify a specific age range.
 
 ## Remarks
-This project is submitted as part of assessed coursework.
+This project is submitted as part of an assessed coursework.
 
 ## Files
 - `v1.0.0.py` contains the source code written in Python2. Tested working in Python v2.7.18.
